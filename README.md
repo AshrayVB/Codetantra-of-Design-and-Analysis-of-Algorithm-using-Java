@@ -31,12 +31,16 @@ https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using
 https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/TopologicalSortKahn.java
 
 11. Coin Change Problem
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/CoinChangeGreedy.java
 
 12. Java program to implement 0/1 Knapsack problem using Knapsack Greedy method.
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/FractionalKnapsack.java
 
-14. Job Sequence using greedy method
+13. Job Sequence using greedy method
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/JobSequencingGreedy.java
 
-15. Implement Prim's algorithm which generates minimum spanning tree using Greedy Approach
+14. Implement Prim's algorithm which generates minimum spanning tree using Greedy Approach
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/Prims.java
 
 16. Implement Kruskal's algorithm to generate minimum spanning tree using Greedy approach
 
