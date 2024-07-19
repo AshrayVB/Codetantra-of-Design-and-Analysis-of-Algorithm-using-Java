@@ -42,28 +42,30 @@ https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using
 14. Implement Prim's algorithm which generates minimum spanning tree using Greedy Approach
 https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/Prims.java
 
-16. Implement Kruskal's algorithm to generate minimum spanning tree using Greedy approach
+15. Implement Kruskal's algorithm to generate minimum spanning tree using Greedy approach
 
-17. Dijkstra’s algorithm to find shortest paths
+16. Dijkstra’s algorithm to find shortest paths
 
-18. Floyd's algorithm
+17. Floyd's algorithm
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/FloydAlgorithm.java
 
-19. Warshall's Algorithm
+18. Warshall's Algorithm
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/WarshallAlgorithm.java
 
-20. 0/1 knapsack using Dynamic Programming
+19. 0/1 knapsack using Dynamic Programming
 
-21. Travelling Salesperson Using Dynamic Programming
+20. Travelling Salesperson Using Dynamic Programming
 
-22. Design and implement a Java program to find all Hamiltonian Cycles
+21. Design and implement a Java program to find all Hamiltonian Cycles
 
-23. Bellman ford Algorithm Implementation
+22. Bellman ford Algorithm Implementation
 
-24. Implementation of N Queen using Backtracking
+23. Implementation of N Queen using Backtracking
 
-25. Sum of Subset Problem
+24. Sum of Subset Problem
 
-26. Traveling Sales Man using Branch and Bound
+25. Traveling Sales Man using Branch and Bound
 
-27. 0/1 Knapsack problem using Branch and Bound method
+26. 0/1 Knapsack problem using Branch and Bound method
 
-28. Assignment problem using branch and bound
+27. Assignment problem using branch and bound
