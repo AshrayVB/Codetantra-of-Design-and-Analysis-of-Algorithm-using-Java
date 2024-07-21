@@ -64,7 +64,7 @@ public class HamiltonianCycles {
 
     // Method to print the solution
     private void printSolution(int[] path, int V) {
-        System.out.println("Hamiltonian Cycles are: ");
+        System.out.println("Hamiltonian Cycles are:");
         for (int i = 0; i < V; i++) {
             System.out.print((path[i] + 1) + "-->");
         }
