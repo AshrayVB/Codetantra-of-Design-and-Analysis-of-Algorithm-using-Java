@@ -53,10 +53,13 @@ https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using
 https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/WarshallAlgorithm.java
 
 19. 0/1 knapsack using Dynamic Programming
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/Knapsack.java
 
 20. Travelling Salesperson Using Dynamic Programming
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/TSPDynamicProgramming.java
 
 21. Design and implement a Java program to find all Hamiltonian Cycles
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/HamiltonianCycles.java
 
 22. Bellman ford Algorithm Implementation
 
