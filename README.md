@@ -64,6 +64,7 @@ https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using
 22. Bellman ford Algorithm Implementation
 
 23. Implementation of N Queen using Backtracking
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/NQueenBacktracking.java
 
 24. Sum of Subset Problem
 
