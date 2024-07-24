@@ -42,9 +42,9 @@ https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using
 14. Implement Prim's algorithm which generates minimum spanning tree using Greedy Approach
 https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/Prims.java
 
-15. Implement Kruskal's algorithm to generate minimum spanning tree using Greedy approach
+15. Implement Kruskal's algorithm to generate minimum spanning tree using Greedy approach: https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/KruksalsMinimumSpanningTree.java
 
-16. Dijkstra’s algorithm to find shortest paths
+16. Dijkstra’s algorithm to find shortest paths: https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/LP12_Dijkstra.java
 
 17. Floyd's algorithm
 https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/FloydAlgorithm.java
@@ -61,15 +61,18 @@ https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using
 21. Design and implement a Java program to find all Hamiltonian Cycles
 https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/HamiltonianCycles.java
 
-22. Bellman ford Algorithm Implementation
+22. Bellman ford Algorithm Implementation: https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/BellmanFord.java
 
 23. Implementation of N Queen using Backtracking
 https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/NQueenBacktracking.java
 
 24. Sum of Subset Problem
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/LP17_SumOfSubSubset.java
 
-25. Traveling Sales Man using Branch and Bound
+25. Traveling Sales Man using Branch and Bound: https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/TSP.java
 
 26. 0/1 Knapsack problem using Branch and Bound method
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/KnapsackBranchBound.java
 
 27. Assignment problem using branch and bound
+https://github.com/AshrayVB/Codetantra-of-Design-and-Analysis-of-Algorithm-using-Java/blob/main/Main2.java
